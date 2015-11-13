@@ -1,6 +1,6 @@
 baseurl = "https://www.wolfdrawer.net"
 languageCode = "en-us"
-title = "Wolfdawer"
+title = "Wolfdrawer"
 canonifyUrls = "true"
 
 # [[params.social]]
