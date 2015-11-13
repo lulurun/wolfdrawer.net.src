@@ -1,0 +1,10 @@
+baseurl = "https://www.wolfdrawer.net"
+languageCode = "en-us"
+title = "Wolfdawer"
+canonifyUrls = "true"
+
+# [[params.social]]
+#     title = "email"
+#     icon = "envelope-o"
+#     url = "mailto:info@wolfdrawer.net"
+
