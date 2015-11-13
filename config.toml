@@ -1,4 +1,4 @@
-baseurl = "https://www.wolfdrawer.net"
+baseurl = "http://www.wolfdrawer.net"
 languageCode = "en-us"
 title = "Wolfdrawer"
 canonifyUrls = "true"
